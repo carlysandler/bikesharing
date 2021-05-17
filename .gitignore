@@ -1,3 +1,6 @@
+# Adding additional files
+14_Notes.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
